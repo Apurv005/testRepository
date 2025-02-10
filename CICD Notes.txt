@@ -1,1 +1,3 @@
-CICD means continuous integration continuous development.
+CICD means continuous integration and continuous development.
+
+This file is now changed.
